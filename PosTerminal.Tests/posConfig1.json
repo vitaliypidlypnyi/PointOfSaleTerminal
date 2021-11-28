@@ -1,0 +1,29 @@
+{
+  "multiDiscountEnabled": true,
+  "catalogue": { 
+    "A": {
+      "name": "A",
+      "price": 1.25,
+      "discountPrice": {
+        "amount": 3,
+        "price": 3
+      }
+    },
+    "B": {
+      "name": "B",
+      "price": 4.25
+    },
+    "C": {
+      "name": "C",
+      "price": 1,
+      "discountPrice": {
+        "amount": 6,
+        "price": 5
+      }
+    },
+    "D": {
+      "name": "D",
+      "price": 0.75
+    }
+  }
+}
